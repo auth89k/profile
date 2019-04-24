@@ -1,6 +1,6 @@
 ## PROFILE
 
-권영하/n
+권영하\n
 auth89k@gmail.com
 010.4135.3091
 
