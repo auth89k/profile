@@ -18,7 +18,7 @@
 ```
 ## 보유기술
 ```
-Data Engineering	데이터 수집 및 적재, 전처리, 엔진 개발 및 시스템 설계
+Data Engineering  데이터 수집 및 적재, 전처리, 엔진 개발 및 시스템 설계
 Data Analysis     데이터 기초 통계 분석 및 시각화
 DB Programming	  MongoDB, Oracle, MySQL, MS-SQL 사용경험
 ```
