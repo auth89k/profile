@@ -33,7 +33,7 @@ DB Programming	  MongoDB, Oracle, MySQL, MS-SQL 사용경험
 웹 관련: React, Angular, HTML, JavaScript, jQuery
 프레임워크 : Django, Spring, Mybatis
 인공지능 관련: M/L, D/L
-빅데이터 관련:Spark, Hadoop, etc
+빅데이터 관련: Docker, Spark, Hadoop, etc
 ```
 
 ## 프로젝트 경험
