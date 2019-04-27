@@ -17,6 +17,24 @@
 ㈜카플랫폼 2016.11 ~ 2017.03   개발팀        사원/소프트웨어 개발
 ```
 
+## 보유 기술
+```
+Data Engineering  데이터 수집 및 적재, 전처리, 엔진 개발 및 시스템 설계
+Data Analysis     데이터 기초 통계 분석 및 시각화
+DB Programming	  MongoDB, Oracle, MySQL, MS-SQL 사용경험
+```
+
+## 사용 가능 기술
+```
+사용가능 언어: Python, JAVA, VBScript
+사용가능 O/S: Linux, Windows
+사용가능 D/B: MongoDB, ORACLE, MySQL, MS-SQL
+웹 관련: React, Angular, HTML, JavaScript, jQuery
+프레임워크 : Django, Spring, Mybatis
+인공지능 관련: M/L, D/L
+빅데이터 관련:Spark, Hadoop, etc
+```
+
 ## 프로젝트 경험
 ```
 * MCNS
@@ -42,13 +60,6 @@
 
 * BMW
 - ERP시스템 소프트웨어 개발
-```
-
-## 보유기술
-```
-Data Engineering  데이터 수집 및 적재, 전처리, 엔진 개발 및 시스템 설계
-Data Analysis     데이터 기초 통계 분석 및 시각화
-DB Programming	  MongoDB, Oracle, MySQL, MS-SQL 사용경험
 ```
 
 ## 교육 이수 내역
