@@ -21,14 +21,14 @@
 |**회사명**|**재직기간**|**소속**|**직급**|**담당업무**|
 |:--------:|:--------:|:--------:|:--------:|:--------:|
 | ㈜세스코   | 2019.11 ~ 재직중  | 마케팅실 | 사원 | Data engineer |
-| ㈜인실리코 | 2017.04 ~ 2019.06 | 전략기획팀 | 연구원 | 인공지능(AI)·빅데이터·시스템구축 |
+| ㈜인실리코 | 2017.04 ~ 2019.06 | 기획실 | 연구원 | 인공지능(AI)·빅데이터·시스템구축 |
 | ㈜카플랫폼 | 2016.11 ~ 2017.03 | 개발팀 | 사원 | 소프트웨어 개발 |
 
 ## 보유 기술
 ```
 Data Engineering  데이터 수집 및 적재, 전처리, 엔진 개발 및 시스템 설계
 Data Analysis     데이터 기초 통계 분석 및 시각화
-DB Programming	  MongoDB, Oracle, MySQL, MS-SQL 사용경험
+DB Programming	  MongoDB, Oracle, MySQL, MS-SQL 사용 경험
 ```
 
 ## 사용 가능 기술
@@ -96,6 +96,7 @@ DB Programming	  MongoDB, Oracle, MySQL, MS-SQL 사용경험
 
 프로젝트명: ERP 구축 POC
 고객사: BMW(BMW Financial Korea)
+참여기간: 2017.02 ~ 2017.03
 프로젝트 참여인원 및 참여도: 2명(50%)
 구축환경(HW,OS,언어,DB): Windows, Java, Oracle, HTML, JavaScript, jQuery, Spring Framework
 상세내용: 프로젝트 초기단계(Draft 개발 및 기획, 설계) 참여 
