@@ -14,7 +14,7 @@
 ```
 인공지능 관련 프로젝트 진행
 빅데이터 플랫폼 구축 및 개발
-한성자동차, BMW CMS/ERP 개발
+다국적 문화에 대한 이해와 원활한 커뮤니케이션 능력
 ```
 
 ## 경력 사항
@@ -27,20 +27,37 @@
 
 ## 보유 기술
 ```
-Data Engineering  데이터 수집 및 적재, 전처리, 엔진 개발 및 시스템 설계
-Data Analysis     데이터 기초 통계 분석 및 시각화
-DB Programming	  MongoDB, Oracle, MySQL, MS-SQL 사용 경험
-```
+Data Engineering / 데이터 수집 및 적재, 전처리, 엔진 개발 및 시스템 설계, 운영 및 관리
+Language: Python, Java
+O/S: Linux, Windows Server
+D/B: MongoDB, ORACLE, MySQL, MS-SQL
+Bigdata: Spark, Hadoop, Sharding
+Hardware: Technical architecture
+Virtual machine: Vsphere, Vmware, Docker
+ETL: Process planning, execution
+Cloud: Experience of working in AWS
 
-## 사용 가능 기술
-```
-사용가능 언어: Python, JAVA, VBScript
-사용가능 O/S: Linux, Windows
-사용가능 D/B: MongoDB, ORACLE, MySQL, MS-SQL
-웹 관련: React, Angular, HTML, JavaScript, jQuery
-프레임워크 : Django, Spring, Mybatis
-인공지능 관련: M/L, D/L
-빅데이터 관련: Docker, Spark, Hadoop, etc
+Devops Engineering / 지속적 서비스 및 시스템 구축, 운영, 관리
+RPA: Automating repetitive tasks
+Visualization: Reporting for Stakeholders
+Dependency: Managing dependency with other projects
+Software development: Architecture, building, testing, demonstration
+Operation: Service deployment, operation, monitoring
+
+Data Analysis / 데이터 기초 통계 분석 및 시각화
+Language: Python
+D/B: MongoDB, ORACLE, MySQL, MS-SQL
+Basic statistics: Regression, Correlation analysis, ANOVA, time series analysis
+Machine Learning Engineering: Model build, evaluation, validation, clustering, classification, deep learning
+
+Software/System development / 아키텍쳐 설계, 서비스 구현 및 운영
+Language: Python, Java
+O/S: Linux, Windows Server
+D/B: MongoDB, ORACLE, MySQL, MS-SQL
+Framework: Django, Spring, Mybatis
+Web: React, Angular, HTML, JavaScript, jQuery
+Framework: Django, Spring, Mybatis
+
 ```
 
 ## 프로젝트 경험
