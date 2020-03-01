@@ -66,56 +66,48 @@ Framework: Django, Spring, Mybatis
 프로젝트명: 배치 공정에 대한 물성 예측 POC
 고객사: MCNS
 개발기간: 2018.12 ~ 2019.02
-프로젝트 참여인원 및 참여도: 2명(50%)
-구축환경(HW,OS,언어,DB): Linux, Python, Oracle
+구축환경(HW,OS,언어,DB): Linux, Python, Oracle, Tensorflow, Keras
 상세내용: 인공지능(M/L, D/L)을 통한 배치 공정에 대한 물성 예측과 조성 추천을 통한 배치 공정 최적화
 
 프로젝트명: 케이블 조성 최적화 인공지능 시스템 POC
 고객사: LS전선
 개발기간: 2018.10 ~ 2018.11
-프로젝트 참여인원 및 참여도: 2명(50%)
-구축환경(HW,OS,언어,DB): Linux, Python, Oracle
+구축환경(HW,OS,언어,DB): Linux, Python, Oracle, Tensorflow, Keras
 상세내용: 인공지능(M/L, D/L)을 통한 케이블 조성 최적화
 
 프로젝트명: 인공지능 예측 시스템 구축
 고객사: (재)경기도경제과학진흥원
 개발기간: 2018.07 ~ 2018.11
-프로젝트 참여인원 및 참여도: 2명(50%)
-구축환경(HW,OS,언어,DB): Windows, Python, Django, Oracle, MongoDB
+구축환경(HW,OS,언어,DB): Windows, Python, Django, Oracle, MongoDB, Tensorflow, Keras
 상세내용: 누적연구정보에 기반한 인공지능(M/L, D/L) 예측 시스템 구축
 
 프로젝트명: 인화성 물질 탐색 프로그램 개발
 고객사: 국립과학수사연구원
 개발기간: 2018.07 ~ 2018.10
-프로젝트 참여인원 및 참여도: 2명(50%)
-구축환경(HW,OS,언어,DB): Linux, Python, Django, Oracle, MongoDB
+구축환경(HW,OS,언어,DB): Linux, Python, Django, Oracle, MongoDB, Tensorflow, Keras
 상세내용: 인공지능(M/L, D/L)을 활용한 인화성 물질 탐색 프로그램(API) 개발
 
-프로젝트명: 빅데이터 처리 플랫폼 구축 
+프로젝트명: 빅데이터 처리 플랫폼 구축
 고객사: 인실리코
 개발기간: 2018.10 ~ 2018.12
-프로젝트 참여인원 및 참여도: 1명(100%)
-구축환경(HW,OS,언어,DB): Linux, Python, MongoDB, Spark
+구축환경(HW,OS,언어,DB): Linux, Python, MongoDB, Spark, Tensorflow, Keras
 상세내용: 대용량 데이터 가공 및 인공지능(M/L, D/L)을 활용한 플랫폼 구축
 
 프로젝트명: 연구 정보 관리 시스템 구축
 고객사: 한미약품
 참여기간: 2017.05 ~ 2018.06
-프로젝트 참여인원 및 참여도: 5명(25%)
 구축환경(HW,OS,언어,DB): Windows, Java, VBScript, Oracle, MS-SQL, HTML, JavaScript, jQuery
 상세내용: 제약 품질 관리 업무의 자동화 및 체계적 정보관리 시스템 구축 관련 Solution(LIMS: Laboratory Information Management System) 기술 지원 및 Software 개발
 
 프로젝트명: CMS 구축
 고객사: 한성자동차
 참여기간: 2016.11 ~ 2017.03
-프로젝트 참여인원 및 참여도: 6명(10%)
 구축환경(HW,OS,언어,DB): Windows, Java, Oracle, HTML, JavaScript, jQuery, Spring Framework
 상세내용: CMS/ERP 기능 개발 참여
 
 프로젝트명: ERP 구축 POC
 고객사: BMW(BMW Financial Korea)
 참여기간: 2017.02 ~ 2017.03
-프로젝트 참여인원 및 참여도: 2명(50%)
 구축환경(HW,OS,언어,DB): Windows, Java, Oracle, HTML, JavaScript, jQuery, Spring Framework
 상세내용: 프로젝트 초기단계(Draft 개발 및 기획, 설계) 참여 
 
