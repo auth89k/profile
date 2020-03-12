@@ -63,6 +63,12 @@ Framework: Django, Spring, Mybatis
 ## 프로젝트 경험
 ```
 
+프로젝트명: 검색 광고 효율 예측 POC
+고객사: 세스코
+개발기간: 2019.01 ~ 2020.03
+구축환경(HW,OS,언어,DB): Windows, Python, Tensorflow, Keras
+상세내용: 시계열 데이터 분석을 통한 검색 광고 비용 및 수요 예측
+
 프로젝트명: 배치 공정에 대한 물성 예측 POC
 고객사: MCNS
 개발기간: 2018.12 ~ 2019.02
@@ -87,7 +93,7 @@ Framework: Django, Spring, Mybatis
 구축환경(HW,OS,언어,DB): Linux, Python, Django, Oracle, MongoDB, Tensorflow, Keras
 상세내용: 인공지능(M/L, D/L)을 활용한 인화성 물질 탐색 프로그램(API) 개발
 
-프로젝트명: 빅데이터 처리 플랫폼 구축
+프로젝트명: 빅데이터 처리 플랫폼 구축 
 고객사: 인실리코
 개발기간: 2018.10 ~ 2018.12
 구축환경(HW,OS,언어,DB): Linux, Python, MongoDB, Spark, Tensorflow, Keras
@@ -109,7 +115,7 @@ Framework: Django, Spring, Mybatis
 고객사: BMW(BMW Financial Korea)
 참여기간: 2017.02 ~ 2017.03
 구축환경(HW,OS,언어,DB): Windows, Java, Oracle, HTML, JavaScript, jQuery, Spring Framework
-상세내용: 프로젝트 초기단계(Draft 개발 및 기획, 설계) 참여 
+상세내용: 프로젝트 초기단계(Draft 개발 및 기획, 설계) 참여
 
 ```
 
