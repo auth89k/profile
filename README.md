@@ -57,7 +57,6 @@ O/S: Linux, Windows Server
 D/B: MongoDB, ORACLE, MySQL, MS-SQL
 Framework: Django, Spring, Mybatis
 Web: React, Angular, HTML, JavaScript, jQuery
-Framework: Django, Spring, Mybatis
 
 ```
 
