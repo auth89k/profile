@@ -31,8 +31,8 @@
 Data Engineering / 데이터 수집 및 적재, 전처리, 엔진 개발 및 시스템 설계, 운영 및 관리
 Language: Python, Java
 O/S: Linux, Windows Server
-D/B: MongoDB, ORACLE, MySQL, MS-SQL
-Bigdata: Spark, Hadoop, Sharding
+D/B: MongoDB, ORACLE, MySQL, MS-SQL, PostgreSQL
+Bigdata: Spark, Hadoop, Sharding, Kafka, Zookeeper
 Hardware: Technical architecture
 Virtual machine: Vsphere, Vmware, Docker
 ETL: Process planning, execution
@@ -54,14 +54,55 @@ Machine Learning Engineering: Model build, evaluation, validation, clustering, c
 Software/System development / 아키텍쳐 설계, 서비스 구현 및 운영
 Language: Python, Java
 O/S: Linux, Windows Server
-D/B: MongoDB, ORACLE, MySQL, MS-SQL
-Framework: Django, Spring, Mybatis
-Web: React, Angular, HTML, JavaScript, jQuery
+D/B: PostgreSQL, MongoDB, ORACLE, MySQL, MS-SQL
+Framework: Django, Spring, Mybatis, Querydsl
+Web: Vue, React, Angular, HTML, JavaScript, jQuery
+Java API: JPA
 
 ```
 
 ## 프로젝트 경험
 ```
+
+프로젝트명: 인공지능 이상징후 탐지 시스템 구축
+고객사: 우리FIS
+개발기간: 2021.03 ~ 2021.07
+구축환경(HW,OS,언어,DB 등): Linux, Java, PostgreSQL
+상세내용:
+- 환경 구성 및 시스템 구축
+- 고객사 환경 분석 및 적용(Digitalization)
+- 데이터 수집 및 적재
+- 데이터 검증
+- 사용자 교육
+
+프로젝트명: 인공지능 이상징후 탐지 시스템 구축
+고객사: 한전KDN
+개발기간: 2020.12 ~ 2021.02
+구축환경(HW,OS,언어,DB 등): Linux, Java, PostgreSQL
+상세내용:
+- 환경 구성 및 시스템 구축
+- 고객사 환경 분석 및 적용(Digitalization)
+- 데이터 수집/적재
+- 데이터 검증
+- 사용자 교육
+
+프로젝트명: 인공지능 이상징후 탐지 시스템 구축 BMT
+고객사: 신한은행
+개발기간: 2020.12 ~ 2020.12
+구축환경(HW,OS,언어,DB 등): Linux, Java, PostgreSQL
+상세내용: 환경 구성 및 시스템 구축
+
+프로젝트명: 인공지능 이상징후 탐지 시스템 구축
+고객사: 유엔젤
+개발기간: 2020.11 ~ 2020.11
+구축환경(HW,OS,언어,DB 등): Linux, Java, PostgreSQL
+상세내용: 환경 구성 및 시스템 구축
+
+프로젝트명: 인공지능 이상징후 탐지 시스템 구축 PoC
+고객사: 우리은행
+개발기간: 2020.10 ~ 2020.10
+구축환경(HW,OS,언어,DB 등): Linux, Java, PostgreSQL
+상세내용: 환경 구성 및 시스템 구축
 
 프로젝트명: 검색 광고 효율 예측 POC
 고객사: 세스코
