@@ -1,5 +1,5 @@
 # PROFILE
-![반명함_532_381](https://user-images.githubusercontent.com/49545717/131340981-ebef54b3-3cc4-4912-9a59-e0660c792f05.jpg)
+![thumb_100x140_qynl1k_swqx-j313r_532381](https://user-images.githubusercontent.com/49545717/131341788-446f7213-1730-4cb8-86a0-6be04c827fb7.jpg)
 #### NAME: 권영하
 #### BIRTH: 1989.11.02
 #### EMAIL: auth89k@gmail.com
