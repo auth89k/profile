@@ -148,17 +148,17 @@ Java API: JPA
 구축환경(HW,OS,언어,DB): Windows, Java, VBScript, Oracle, MS-SQL, HTML, JavaScript, jQuery
 상세내용: 제약 품질 관리 업무의 자동화 및 체계적 정보관리 시스템 구축 관련 Solution(LIMS: Laboratory Information Management System) 기술 지원 및 Software 개발
 
-프로젝트명: CMS 구축
-고객사: 한성자동차
-참여기간: 2016.11 ~ 2017.03
-구축환경(HW,OS,언어,DB): Windows, Java, Oracle, HTML, JavaScript, jQuery, Spring Framework
-상세내용: CMS/ERP 기능 개발 참여
-
 프로젝트명: ERP 구축 POC
 고객사: BMW(BMW Financial Korea)
 참여기간: 2017.02 ~ 2017.03
 구축환경(HW,OS,언어,DB): Windows, Java, Oracle, HTML, JavaScript, jQuery, Spring Framework
 상세내용: 프로젝트 초기단계(Draft 개발 및 기획, 설계) 참여
+
+프로젝트명: CMS 구축
+고객사: 한성자동차
+참여기간: 2016.11 ~ 2017.03
+구축환경(HW,OS,언어,DB): Windows, Java, Oracle, HTML, JavaScript, jQuery, Spring Framework
+상세내용: CMS/ERP 기능 개발 참여
 
 ```
 
