@@ -8,8 +8,8 @@
 ## 최종 학력
 |**전공**|**학교명**|**소재지**|
 |:--------:|:--------:|:--------:|
-| master's degree in computer science | Hanyang University Graduate School | Republic of Korea |
-| level 4 business degree | AUT(Auckland University of Technology) University | New Zealand|
+| Master's degree in computer science | Hanyang University Graduate School | Republic of Korea |
+| Level 4 business degree | AUT(Auckland University of Technology) University | New Zealand|
 
 ## 핵심 역량
 ```
