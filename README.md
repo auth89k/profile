@@ -33,8 +33,8 @@
 Data Engineering / 데이터 수집 및 적재, 전처리, 엔진 개발 및 시스템 설계, 운영 및 관리
 Language: Python, Java
 O/S: Linux, Windows Server
-D/B: MongoDB, ORACLE, MySQL, MS-SQL, PostgreSQL
-Bigdata: Spark, Hadoop, Sharding, Kafka, Zookeeper
+D/B: SQL(PostgreSQL, ORACLE, MySQL, MS-SQL), NoSQL(MongoDB)
+Bigdata: Spark, Hadoop, Sharding, Confluent, Kafka, Zookeeper, Snowflake, Dremio
 Hardware: Technical architecture
 Virtual machine: Vsphere, Vmware, Docker
 ETL: Process planning, execution
@@ -42,23 +42,25 @@ Cloud: Experience of working in AWS
 
 Devops Engineering / 지속적 서비스 및 시스템 구축, 운영, 관리
 RPA: Automating repetitive tasks
-Visualization: Reporting for Stakeholders
+Visualization: Reporting for Stakeholders(Tableau)
 Dependency: Managing dependency with other projects
 Software development: Architecture, building, testing, demonstration
 Operation: Service deployment, operation, monitoring
+IDaaS: Okta(OAuth, SAML, OIDC)
+Monitoring: Datadog
+API Gateway: Apache apisix
 
 Data Analysis / 데이터 기초 통계 분석 및 시각화
 Language: Python
-D/B: MongoDB, ORACLE, MySQL, MS-SQL
 Basic statistics: Regression, Correlation analysis, ANOVA, time series analysis
 Machine Learning Engineering: Model build, evaluation, validation, clustering, classification, deep learning
 
 Software/System development / 아키텍쳐 설계, 서비스 구현 및 운영
 Language: Python, Java
 O/S: Linux, Windows Server
-D/B: PostgreSQL, MongoDB, ORACLE, MySQL, MS-SQL
-Framework: Django, Spring, Mybatis, Querydsl
-Web: Vue, React, Angular, HTML, JavaScript, jQuery
+D/B: SQL(PostgreSQL, ORACLE, MySQL, MS-SQL), NoSQL(MongoDB)
+Framework: Django, Spring, Mybatis, Querydsl, FastAPI
+Web: Vue, React, Angular, HTML, JavaScript, jQuery, Express.js(Node.js)
 Java API: JPA
 
 ```
